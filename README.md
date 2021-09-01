@@ -1,6 +1,7 @@
 # Wabill
 
 Kirim pesan unik ke banyak nomor sekaligus.
+![screenshot app](client/assets/ss-app.png)
 
 ## Cara penggunaan:
 1. Buat data di Google Sheet/Microsoft Excel
