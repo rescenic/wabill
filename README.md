@@ -1,13 +1,16 @@
 # Wabill
 
 Kirim pesan unik ke banyak nomor sekaligus.
+
 ![screenshot app](client/assets/ss-app.png)
 
 ## Cara penggunaan:
 1. Buat data di Google Sheet/Microsoft Excel
+
 ![contoh data excell](client/assets/ss1.png)
 2. Jalankan server aplikasinya
 3. Salin dan tempel data, **Pastikan baris pertama adalah judul kolomnya, dan kolom pertama adalah nomor WhatsApp penerima (dengan format 62xxxxxxxx).**
+
 ![baris dan kolom pertama](client/assets/ss2.png)
 4. Buat template, bungkus judul kolom dengan simbol **{}**, contoh template (sesuai data diatas):
 >Pelanggan Yth,
