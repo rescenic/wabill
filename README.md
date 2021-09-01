@@ -30,4 +30,5 @@ Kirim pesan unik ke banyak nomor sekaligus.
 Klik [link ini](https://youtu.be/) untuk melihat panduan instalasi dan penggunaan.
 
 **Aplikasi/tool ini gratis. mohon tidak diperjualbelikan!**
+
 **Saya tidak mencatat/mengumpulkan data dari aplikasi ini.**
