@@ -109,4 +109,5 @@ app.post('/send-message', async (req, res) => {
 
 server.listen(port, () => {
     console.log(`Server berjalan di http://localhost:${port}`)
+    console.log(`Aplikasi Client di http://localhost:${port}/client`)
 })
