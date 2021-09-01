@@ -5,11 +5,12 @@ Kirim pesan unik ke banyak nomor sekaligus.
 ![screenshot app](client/assets/ss-app.png)
 
 ## Cara penggunaan:
-1. Buat data di Google Sheet/Microsoft Excel
+1. Jalankan server aplikasinya, ada dua cara untuk menjalankan aplikasi ini, menggunakan executable atau clone repo ini dan jalankan dengan `node index.js`.
+Untuk menjalankan dengan executable, download aplikasi ini di bagian Release di samping kanan, sesuaikan dengan sistem operasi anda. Setelah itu klik dua kali (untuk windows), dan akan terbuka command prompt. Disitu akan keluar url, buka url tersebut di browser anda (saya pakai google chrome). Lalu scan kode qr nya, setelah aktif, buka halaman client di `url/client` contohnya `http://localhost:8000/client`.
+2. Buat data di Google Sheet/Microsoft Excel
 
 ![contoh data excell](client/assets/ss1.png)
 
-2. Jalankan server aplikasinya
 3. Salin dan tempel data, **Pastikan baris pertama adalah judul kolomnya, dan kolom pertama adalah nomor WhatsApp penerima (dengan format 62xxxxxxxx).**
 
 ![baris dan kolom pertama](client/assets/ss2.png)
