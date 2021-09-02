@@ -4,7 +4,7 @@ Kirim pesan unik ke banyak nomor sekaligus.
 
 ![screenshot app](client/assets/ss-app.png)
 
-## Langkah singkat
+## Quickstart guide
 1. Download dari Github
 2. Jalankan aplikasinya
 3. Buka halaman server
@@ -16,7 +16,7 @@ Kirim pesan unik ke banyak nomor sekaligus.
 9. Klik preview
 10. Kirim!
 
-## Cara penggunaan:
+## Cara penggunaan
 1. Jalankan server aplikasinya, ada dua cara untuk menjalankan aplikasi ini, menggunakan executable atau clone repo ini dan jalankan dengan `node index.js`.
 Untuk menjalankan dengan executable, download aplikasi ini di bagian Release di samping kanan, sesuaikan dengan sistem operasi anda. Setelah itu klik dua kali (untuk windows), dan akan terbuka command prompt. Disitu akan keluar url, buka url tersebut di browser anda (saya pakai google chrome). Lalu scan kode qr nya, setelah aktif, buka halaman client di `url/client` contohnya `http://localhost:8000/client`.
 2. Buat data di Google Sheet/Microsoft Excel
