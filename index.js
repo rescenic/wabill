@@ -14,6 +14,9 @@ const io = socketIO(server)
 wa.connectOptions.alwaysUseTakeover = false
 
 app.use(express.json())
+app.use(express.urlencoded({
+  extended: true
+}))
 app.use("/assets", express.static(__dirname + "/client/assets"))
 
 app.get("/", (req, res) => {

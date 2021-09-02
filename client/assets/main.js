@@ -224,9 +224,9 @@ let sendMessages = () => {
 		    fetch(document.getElementById("server").value + "send-message", {
 					method: "POST",
 					headers: {
-						"content-type":"application/json"
+						"content-type":"application/x-www-form-urlencoded"
 					},
-					body: `{"number":"${e[1]}","message":"${rawMsg[i - 1]}"}`
+					body: `number=${e[1]}&message=${rawMsg[i - 1]}`
 				})
 				.then(r => r.json())
 				.then(res => {
