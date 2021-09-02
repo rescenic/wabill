@@ -42,6 +42,13 @@ Untuk menjalankan dengan executable, download aplikasi ini di bagian Release di 
 
 Klik [link ini](https://youtu.be/) untuk melihat panduan instalasi dan penggunaan.
 
+## Update
+Aplikasi ini menggunakan libarary Baileys, yang bisa jadi di kemudian hari membutuhkan update. Anda bisa mendukung aplikasi ini dengan berdonasi melalui:
+[Trakteer.id](https://trakteer.id/afarhansib) atau [Saweria](https://saweria.co/afarhansib) atau hubungi whatsapp saya di [wa.me/6281233745324](https://wa.me/6281233745324)
+
+Dukungan anda akan sangat berarti bagi saya dan kelanjutan aplikasi ini :) 
+
 **Aplikasi/tool ini gratis. mohon tidak diperjualbelikan!**
 
 **Saya tidak mencatat/mengumpulkan data dari aplikasi ini.**
+
