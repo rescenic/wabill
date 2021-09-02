@@ -1,6 +1,6 @@
 # Wabill
 
-Kirim pesan unik ke banyak nomor sekaligus.
+Kirim pesan WhatsApp unik ke banyak nomor sekaligus.
 
 ![screenshot app](client/assets/ss-app.png)
 
@@ -40,7 +40,7 @@ Untuk menjalankan dengan executable, download aplikasi ini di bagian Release di 
 5. Cek preview terlebih dahulu
 6. Kirim!
 
-Klik [link ini](https://youtu.be/) untuk melihat panduan instalasi dan penggunaan.
+Klik [link ini](https://youtu.be/iQz-v9CCngE) untuk melihat panduan instalasi dan penggunaan.
 
 ## Update
 Aplikasi ini menggunakan libarary Baileys, yang bisa jadi di kemudian hari membutuhkan update. Anda bisa mendukung aplikasi ini dengan berdonasi melalui:
